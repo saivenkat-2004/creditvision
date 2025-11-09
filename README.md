@@ -50,7 +50,7 @@ Financial institutions face significant risk when approving loans due to borrowe
 
 ##  How to Run the Project
 ```bash
-git clone https://github.com/your-username/CreditVision-Loan-Default-Prediction.git
+git clone https://github.com/saivenkat-2004/CreditVision.git
 cd CreditVision-Loan-Default-Prediction
 pip install -r requirements.txt
 jupyter notebook CreditVisionProjectML.ipynb
