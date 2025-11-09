@@ -6,12 +6,12 @@ This project focuses on predicting whether a borrower will **default on a loan**
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 Financial institutions face significant risk when approving loans due to borrowers who may default. Manual evaluation of loan applications is slow, inconsistent, and may overlook key risk patterns. This project builds a **machine learning model** to classify borrowers as *likely to default* or *likely to repay*, enabling faster and more accurate credit decisions.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze borrower characteristics and detect patterns linked to default behavior.
 - Clean, preprocess, and transform dataset features.
 - Perform exploratory data analysis (EDA) to understand key insights.
@@ -20,7 +20,7 @@ Financial institutions face significant risk when approving loans due to borrowe
 
 ---
 
-## 🧠 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
 | Step | Description |
 |------|-------------|
@@ -32,14 +32,14 @@ Financial institutions face significant risk when approving loans due to borrowe
 
 ---
 
-## 📊 Key Insights from EDA
+##  Key Insights from EDA
 - Loan purpose (Education/Medical/Venture) shows higher default tendencies.
 - Higher **loan_percent_income** correlates strongly with default.
 - Credit history length plays a critical role in repayment behavior.
 
 ---
 
-## 🧰 Technologies & Libraries
+##  Technologies & Libraries
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
@@ -48,7 +48,7 @@ Financial institutions face significant risk when approving loans due to borrowe
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 ```bash
 git clone https://github.com/your-username/CreditVision-Loan-Default-Prediction.git
 cd CreditVision-Loan-Default-Prediction
